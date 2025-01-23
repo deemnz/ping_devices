@@ -1,3 +1,4 @@
+<body>
   <h1>IP Monitoring and Alert System</h1>
     
     <p>This project is a Python-based monitoring tool for tracking the availability of IP addresses and sending notifications via Telegram in case of status changes. The application supports adding, updating, and monitoring objects with flexible configuration options.</p>
@@ -72,3 +73,4 @@
 
     <h2>License</h2>
     <p>This project is licensed under the MIT License.</p>
+</body>
